@@ -1,0 +1,14 @@
+{
+  "name": "Practice 5_3",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6787.20946",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
