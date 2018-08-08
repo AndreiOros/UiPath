@@ -1,0 +1,14 @@
+{
+  "name": "Practice 12_2",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6793.17231",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
